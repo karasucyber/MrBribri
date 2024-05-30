@@ -744,6 +744,7 @@ body.nav-active { overflow: hidden; }
   margin-inline: auto;
 }
 
+
 .navbar .contact-label { margin-block-end: 10px; }
 
 .navbar::-webkit-scrollbar-thumb { background-color: var(--white-alpha-10); }
